@@ -1,0 +1,131 @@
+.body-css{
+    background: linear-gradient(#141823, #0872c6);
+
+    
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.main-body {
+    margin: 30px 0px 30px 0px;
+}
+
+.footer-css{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#244854;
+    background-color:#d6efe9;
+    margin: 3% auto;
+    font-size: large;
+}
+
+.intro-pic{
+    text-align: center;
+    
+}
+
+.intro-card {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+}
+
+.intro-txt{
+    font-size: 90px;
+
+}
+
+.introductory-text {
+    background-color: #2c2930b5;
+    font-size:19000px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.navbar-collapse{
+    background-color:#d6efe9;
+}
+
+.navbar-nav {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#244854;
+    font-size: large;
+}
+
+.navbar-inner{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-item {
+    margin: 0px 8px 0px 8px;
+}
+
+.conteiner {
+    margin: 0px 60px 0px 60px;
+}
+
+.conteiner-1 {
+    margin: 10% auto;
+}
+
+.pic-1 {
+    float: left;
+    padding: 15px; 
+    margin: 0px 20px 20px 0;
+    text-align: center;
+    font-size: small;
+}
+
+.pic-2 {
+    float: right;
+    padding: 15px; 
+    margin: 0px 0px 20px 20px;
+    text-align: center;
+    font-size: small;
+}
+
+.pic-3 {
+    float: center;
+    padding: 15px; 
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    font-size: small;
+}
+
+.pic-signature-1, .pic-signature-2, .pic-signature-3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #dbb9ad; 
+}
+
+.text{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#f6a085;
+}
+
+.linkk {
+    color: #dbb9ad;
+}
+
+.linkk:hover {
+    color: #244854;
+    background-color: #d6efe9;
+}
+
+.card-txt-p-1 .card-txt-p-2 {
+    text-align: justify;
+    padding: 25px 25px 25px 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.side-pic {
+    width: 50%;
+}
+
